@@ -1,4 +1,4 @@
 # BigBellyChow
-br>
-<b>DEMO</b><br>
+<br>
+# DEMO
 <a href="https://bigbellychow.netlify.app/">Preview</a>
