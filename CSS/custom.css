@@ -1,0 +1,24 @@
+body{
+    padding-top: 5 rem;
+    
+}
+.starter-template{
+    padding:3rem 1.5rem;
+    text-align: center;}
+.btn-info{
+    background-color: hotpink;
+}
+.btn-info:hover{
+    background-color: pink!important;
+    border: 3px solid #21ddfb !important;
+    color:beige !important;
+}
+.btn-info:active{
+    background-color: pink !important;
+    border: 3px solid aquamarine !important;
+    color:beige !important;
+}
+button{color: hotpink;}
+.btn-primary:hover{background-color: pink;}
+.bg-inverse{background-color: palevioletred !important;}
+
